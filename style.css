@@ -1,0 +1,30 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* /*
+  Check Your Understanding:
+
+  Part A:
+  - Update the above code so it is a pizza order.
+  - There are 3 inputs: one for the size, and two for toppings.
+  - Output should be displayed on the website as "Your ______ pizza with _____ and ______ will be ready in 20 minutes!"
+  Part B: Update the previous section so that 
+  - the toppings appear as an unordered list like this:
+  
+      You have ordered a pizza with:
+          - ham
+          - pineapple
+          
+      Thank you for ordering from Pizza 73! You pizza will be ready in 20 minutes.
+      
+  - an image of a pizza appears under the order output
+
+  - have the "Pizza 73" be a hyperlink that takes the user to Pizza 73's homepage.
+   
+  - inner HTML can add test as well as tags
+  - e.g. document.getElementBYId("thing").innerHTML = "<p>hello <a href='?'>WORLD </a> </p>
+
+*/
